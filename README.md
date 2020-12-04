@@ -8,6 +8,8 @@ Well, my best guess is that you have already understood that I am italian. And, 
 
 Antipasto
 
+![alt text](Authentic-Italian-Bruschetta2.jpg)
+
 A good meal starts with a good conversation. A perfectly set table with quiet people around is not a good table. I'd rather have one with disposable forks on it but full of people who are happy to be there and share. 
 
 It's always a good time to talk. 
@@ -37,9 +39,8 @@ My aim is to bring each individual to a level of ownership where he has the skil
 What to expect from me:
 I am here to guide, coach, clarify, simplify and reduce the noise around you. 
 I want to plan together with you your career path. And if you don't have the answer to questions like 'where do you see yourself in 1 or 5 years?' . I'll help you come up with a plan.
-We, as engineers, have a duty to ourselves to trying and be 
-
-
+We, as engineers, have a duty to ourselves to build up our skills, to evolve and to bring this know-how within the team and the product. I want to work with you and find the learning path that fits for you, like a tailor would sew your own suit. As a part of my job, I want to review how the learning path is going, and eventually adjust.  
+I value ownership and risk taking. I want engineers to be able to trust their insticts, make decisions and be able to fail, learn and iterate. This is the safe path to success.
 
 My aim is to drive each single one of you to be a distinguishable layer whose value brought to the final product is clearly visible, tangible and harmonized with the others. Wouldn't it make a perfect lasagna? 
 
@@ -48,7 +49,12 @@ My aim is to drive each single one of you to be a distinguishable layer whose va
 
 Second course
 
-I come from a technical background. And, as an engineer, I always found very useful to work with managers with a similar background. So, expect me to see me partecipating in conversations around code, pipelines, resiliency patterns and dependency injection, as much as DDD, BDD, TDD and Glory of REST. I love my job and I'm passionate about it, and I will do my best to convey all of this to you on a daily basis.
+I come from a technical background. And, as an engineer, I always found very useful to work with managers with a similar background. 
+
+So, expect to see me partecipating in conversations around code, pipelines, resiliency patterns and dependency injection, as much as DDD, BDD, TDD and Glory of REST. I love my job and I'm passionate about it, and I will do my best to convey all of this to you on a daily basis.
+
+What NOT to expect from me:
+To bring a list of things to do, and then step away and watch from the outside. As I've already said, I am part of the team, and as long as I can bring value and help, I won't be afraid of diving deeper into techical matters, doing code reviews, or suggesting alternative approaches. 
 
 
 Dessert
