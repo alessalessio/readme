@@ -27,7 +27,7 @@ If something pops up in my mind outside of working hours, and I want to make sur
 
 I am going to set up monthly 1 on 1 meetings, but I don't want people to wait for those meetings to talk to me. I always encourage partecipation and exchange of opinions, bearing in mind that no question is a stupid question, and every idea, no matter how crazy it sounds, is valuable and deserves attention. 
 
-Does it sound like a good start? Appetite comes with eating, so let's see what else I got to say
+Does it sound like a good start? Appetite comes with eating, so they say...
 
 Lasagna
 
