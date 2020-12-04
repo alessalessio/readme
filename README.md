@@ -9,14 +9,41 @@ Well, my best guess is that you have already understood that I am italian. And, 
 Antipasto
 
 A good meal starts with a good conversation. A perfectly set table with quiet people around is not a good table. I'd rather have one with disposable forks on it but full of people who are happy to be there and share. 
-For me, It's always a good time to talk. Don't be afraid of sharing something. I'm not too picky about the format or the way things are shared. And anytime of the day will do. And if you leave a message outside working hours, I will be picking it up in the morning. I will not be sending messages after hours myself, because you might have notifications on your phone. If something pops up in my mind outside of working hours,  and I want to make sure I don't forget it, I 
 
-I will be setting up monthly 1 on 1 meetings, but I don't want people to wait for those meetings to talk to me. I always encourage partecipation and exchange of opinions, bearing in mind that no question is a stupid question, and every idea, no matter how crazy it sounds, is valuable and deserves attention. 
+It's always a good time to talk. 
 
+I want you not be afraid to raise your hand and share something that you've just discovered: <em>a potential issue, a risk or if you simply need some help</em>.
+Or if there's something that bothers you and you want to share it with me, don't be afraid of popping a message on Slack/Teams at anytime: you will hear me encouraging you, from time to time, to bring to my attention any situation that you felt uncomfortable with, or any source of stress that you have been facing.
+
+I am not too precious about the 'how': an email or a message will do. I usually respond promptly during the office hours, but If I'm 'Away' or 'Out of Office' I will come back to you in the morning.
+
+What to expect from me:
+I try my best to communicate things trasparently and to the relevant audiences. If I have to share something within the team, or a subset of individuals, I tend to do it directly, mindful of everybody else’s time. 
+I try my best to keep meetings at the minimum, making sure that all the people attending have an genuine interest in the matter discussed.
+If I fail in any of the above things, it was certainly unintentional and I am more that happy to be told that I made a mistake. I will learn, and move on.
+
+I don't send messages on Slack/Teams after office hours: you might have notifications on your phone and I don't want to disrupt you during your own time. 
+If something pops up in my mind outside of working hours, and I want to make sure I don't forget it, I send an email. 
+
+I am going to set up monthly 1 on 1 meetings, but I don't want people to wait for those meetings to talk to me. I always encourage partecipation and exchange of opinions, bearing in mind that no question is a stupid question, and every idea, no matter how crazy it sounds, is valuable and deserves attention. 
+
+Does it sound like a good start? Appetite comes with eating, so let's see what else I got to say
 
 Lasagna
 
-We, as a team, work and sail towards the same objectives. We are on the same boat and I am, as much as you, part of the team. My aim is to bring each individual to a level of ownership where he has the skills, knowledge and tools to move forward, accomplish and success. I will be there to guide, coach, clarify, simplify and reduce the noise around you. My aim is to drive each single one of you to be a distinguishable layer whose value brought to the final product is clearly visible, tangible and harmonized with the other layers. Wouldn't it make a perfect lasagna? 
+We, as a team, work and sail towards the same objectives. We are on the same boat and I am, as much as you, part of the team. 
+My aim is to bring each individual to a level of ownership where he has the skills, knowledge and tools to move forward, accomplish and success. 
+
+What to expect from me:
+I am here to guide, coach, clarify, simplify and reduce the noise around you. 
+I want to plan together with you your career path. And if you don't have the answer to questions like 'where do you see yourself in 1 or 5 years?' . I'll help you come up with a plan.
+We, as engineers, have a duty to ourselves to trying and be 
+
+
+
+My aim is to drive each single one of you to be a distinguishable layer whose value brought to the final product is clearly visible, tangible and harmonized with the others. Wouldn't it make a perfect lasagna? 
+
+
 
 
 Second course
