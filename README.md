@@ -34,7 +34,7 @@ Does it sound like a good start? Appetite comes with eating, so they say...
 
 ## Lasagna
 
-![alt text](lasagna.jpg)
+![alt text](lasagna.jpeg)
 
 We, as a team, work and sail towards the same objectives. We are on the same boat and I am, as much as you, part of the team. 
 My aim is to bring each individual to a level of ownership where he has the skills, knowledge and tools to move forward, accomplish and success. 
