@@ -8,7 +8,7 @@ Well, my best guess is that you have already understood that I am italian. And, 
 
 Antipasto
 
-![alt text](Authentic-Italian-Bruschetta2.jpg)
+![alt text](bruschetta.jpg)
 
 A good meal starts with a good conversation. A perfectly set table with quiet people around is not a good table. I'd rather have one with disposable forks on it but full of people who are happy to be there and share. 
 
