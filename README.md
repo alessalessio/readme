@@ -71,29 +71,30 @@ I respect and value diversity and I am a strong supporter of cultural diversity.
 
 
 ## Values I encourage
-<em>disagree and commit</em>
+
+- disagree and commit
 I ask you to bring your own ideas, and argue your case. Ultimately, the team discuss and the team decides what it's the best. <br />
 Once the decision is taken, everyone commits to its success. <br />
 
-<em>think outside the box</em>
+* think outside the box
 If you spot a problem that it's not your responsibility, you will try to fix it anyway or raise it to someone who can. <br />
 Think of the impact that your decisions may affect other teams or modules/components. It's everyone's responsibility to look after the product as a whole
 
-<em>respect and support</em>
+* respect and support
 Be always respectful of anyone else's work. <br />  
 Support your teammates since day one. Understand new hires challenges, no matter how senior you are <br />
 
 ## Things I fancy
-<em>automation</em>
+* automation
 If there's something that you're repeating manually over the course of time, just stop and ask you? Can I automate this? <br />
 Time 'lost' in setting up repeatable processes is going to pay back over the course of time, always <br />
 When is the right time to setup a Build&Release pipeline? And automated tests? Right after you create the code repo. You should be able to deploy and test code from the very first line you commit.
 
-<em>don’t reinvent the wheel</em>
+* don’t reinvent the wheel
 Be efficient, don't try to overcomplicate things. Coding something from scratch is not always the best way. <br />
 Before starting, do your research, discuss, and if we can leverage from someone else's library or third-party service, to speed-up things and simplify, we will do it. <br />
 
-<em>document your choices</em>
+* document your choices
 An extra line of comment in the code has never killed anybody, but it saved hundred hours of dev's time. <br />
 Use meaningful names: someone who doesn't have a clue of what your class does, shoud be able to understand it by just reading the names of your methods and variables you've used <br />
 When you estimate your work, be sure to include the time you need to document what you've done. It's always better to explain what you did and how you did it, right after you finished, when it's still fresh in your mind. <br />
