@@ -85,7 +85,7 @@ If you spot a problem that it's not your responsibility, you will try to fix it 
 Think of the impact that your decisions may affect other teams or modules/components. It's everyone's responsibility to look after the product as a whole
 
 * <em>respect and support<em /> <br />
-Be always respectful of anyone else's work. <br />  
+Be always respectful of anyone else's work. <br />
 Support your teammates since day one. Understand new hires challenges, no matter how senior you are 
 
 ## Things I suggest
