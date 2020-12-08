@@ -104,13 +104,6 @@ Use meaningful names: someone who doesn't have a clue of what your class does, s
 When you estimate your work, be sure to include the time you need to document what you've done. It's always better to explain what you did and how you did it, right after you finished, when it's still fresh in your mind. <br />
 Be mindful of who is going to read the documentation. And if you need to write different documents for the various stakeholders, take your time and do it <br />
 
-# Interviews
-I'm not a huge fan of coding tests. Because, "I don't like to spend time on things that hardly happen in a real game" (from the <em>Queen's gambit<em />, when she was asked why she doesn't like chess puzzles) <br />
-During an interiew, I'm not looking for just a good coder. I'm sorry, but I'm looking for something more, and it cannot be measured through a code test. <br /> 
-I look for someone who is functional to the team and the company. I am looking for someone who can go through a set of requirements, ask the questions, drive the conversation, make simple and concise statements, and come up with a solution using either a top-down or bottom-up approach. <br />
-Expect to be asked about some theory, and to give some concrete example of where you've put in places those concepts. <br />
-Expect to be asked about what you've done in the past, but also to give an overview of the overall solution designed. <br />
-I know you're good at your job, but I need people who are eager to look at the bigger picture.
 
 
 
