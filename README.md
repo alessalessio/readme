@@ -88,6 +88,7 @@ Think of the impact that your decisions may affect other teams or modules/compon
 Be always respectful of anyone else's work. <br />
 Support your teammates since day one. Understand new hires challenges, no matter how senior you are 
 
+
 ## Things I suggest
 * <em>automation</em> <br />
 If there's something that you're repeating manually over the course of time, just stop and ask you? Can I automate this? <br />
