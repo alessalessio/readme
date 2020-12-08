@@ -99,6 +99,9 @@ When is the right time to setup a Build&Release pipeline? And automated tests? R
 Be efficient, don't try to overcomplicate things. Coding everything from scratch is not always the best way. <br />
 Before starting, do your research, without dismissing the idea of leveraging third-party libraies or services to speed-up things and simplify. <br />
 
+* [<em>KISS</em>](https://en.wikipedia.org/wiki/KISS_principle) <br />
+
+
 * <em>document your choices</em> <br />
 An extra line of comment in the code has never killed anybody, but it saved hundred hours of dev's time. <br />
 Use meaningful names: someone who doesn't have a clue of what your class does, shoud be able to understand it by just reading the names of your methods and variables you've used <br />
