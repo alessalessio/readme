@@ -1,3 +1,5 @@
+![](https://img.shields.io/badge/version-v1.1.2-green)
+
 # Working with AlessAlessio
 
 This is intended to give you an idea of how I work, what and what not to expect from me.
