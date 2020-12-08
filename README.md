@@ -76,17 +76,17 @@ I respect and value diversity and I am a strong supporter of cultural diversity.
 
 ## Values I encourage
 
-- disagree and commit
+- <em>disagree and commit<em /> <br />
 I ask you to bring your own ideas, and argue your case. Ultimately, the team discuss and the team decides what it's the best. <br />
-Once the decision is taken, everyone commits to its success. <br />
+Once the decision is taken, everyone commits to its success. 
 
-* think outside the box
+* <em>think outside the box<em /> <br />
 If you spot a problem that it's not your responsibility, you will try to fix it anyway or raise it to someone who can. <br />
 Think of the impact that your decisions may affect other teams or modules/components. It's everyone's responsibility to look after the product as a whole
 
-* respect and support
+* <em>respect and support<em /> <br />
 Be always respectful of anyone else's work. <br />  
-Support your teammates since day one. Understand new hires challenges, no matter how senior you are <br />
+Support your teammates since day one. Understand new hires challenges, no matter how senior you are 
 
 ## Things I suggest
 * automation
