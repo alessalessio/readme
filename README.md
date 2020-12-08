@@ -95,8 +95,8 @@ Time 'lost' in setting up repeatable processes is going to pay back over the cou
 When is the right time to setup a Build&Release pipeline? And automated tests? Right after you create the code repo. You should be able to deploy and test code from the very first line you commit.
 
 * <em>don’t reinvent the wheel</em> <br />
-Be efficient, don't try to overcomplicate things. Coding something from scratch is not always the best way. <br />
-Before starting, do your research, discuss, and if we can leverage from someone else's library or third-party service, to speed-up things and simplify, we will do it. <br />
+Be efficient, don't try to overcomplicate things. Coding everything from scratch is not always the best way. <br />
+Before starting, do your research, without dismissing the idea of leveraging third-party libraies or services to speed-up things and simplify. <br />
 
 * <em>document your choices</em> <br />
 An extra line of comment in the code has never killed anybody, but it saved hundred hours of dev's time. <br />
