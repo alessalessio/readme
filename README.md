@@ -99,7 +99,7 @@ When is the right time to setup a Build&Release pipeline? And automated tests? R
 Be efficient, don't try to overcomplicate things. Coding everything from scratch is not always the best way. <br />
 Before starting, do your research, without dismissing the idea of leveraging third-party libraies or services to speed-up things and simplify. <br />
 
-* [<em>KISS</em>](https://en.wikipedia.org/wiki/KISS_principle) <br />
+* [<em>KISS</em>](https://en.wikipedia.org/wiki/KISS_principle){:target="_blank"} <br />
 
 
 * <em>document your choices</em> <br />
