@@ -1,4 +1,4 @@
-![](https://img.shields.io/badge/version-v1.1.6-green)
+![](https://img.shields.io/badge/version-v1.1.7-green)
 
 # Working with AlessAlessio
 
@@ -95,11 +95,12 @@ Support your teammates since day one. Understand new hires challenges, no matter
 * <em>automation</em> <br />
 If there's something that you're repeating manually over the course of time, just stop and ask you? Can I automate this? <br />
 Time 'lost' in setting up repeatable processes is going to pay back over the course of time, always <br />
-When is the right time to setup a Build&Release pipeline? And automated tests? Right after you create the code repo. You should be able to deploy and test code from the very first line you commit.
+
+The answer to questions like: <em>When is the right time to setup a Build&Release pipeline</em> or <em> What about automated tests?</em> is: right after you create the code repo. You should be able to deploy and test code from the very first line you commit.
 
 * <em>don’t reinvent the wheel</em> <br />
 Be efficient, don't try to overcomplicate things. Coding everything from scratch is not always the best way. <br />
-Before starting, do your research, without dismissing the idea of leveraging third-party libraies or services to speed-up things and simplify. <br />
+Before starting, do your research, without dismissing the idea of leveraging third-party libraries or services to speed-up things and simplify. <br />
 
 * [<em>KISS</em>](https://en.wikipedia.org/wiki/KISS_principle)<br />
 
