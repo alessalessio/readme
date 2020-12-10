@@ -1,4 +1,4 @@
-![](https://img.shields.io/badge/version-v1.1.3-green)
+![](https://img.shields.io/badge/version-v1.1.4-green)
 
 # Working with AlessAlessio
 
@@ -49,7 +49,7 @@ I'll help you find them.
 We, as engineers, have a duty to ourselves to build up our skills, to evolve and to bring this know-how within the team and the product. I want to work with you and find the learning path that fits for you. It is part of my job to review how your learning path is going, and give you the opportunities to grow professionally.
 
 ### What NOT to expect from me:
-Blaming and finger pointing when you make a mistake.
+Blaming or finger pointing when you make a mistake.
 
 I value ownership and risk taking. I want engineers to be able to trust their insticts, make decisions and be able to fail, learn and iterate. 
 This is the safe path to success.
