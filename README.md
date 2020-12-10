@@ -1,4 +1,4 @@
-![](https://img.shields.io/badge/version-v1.1.2-green)
+![](https://img.shields.io/badge/version-v1.1.3-green)
 
 # Working with AlessAlessio
 
@@ -8,7 +8,7 @@ Well, my best guess is that you have figured out I am italian. Yes, I am. And I 
 Here is my menu for you today. Hoping that you won't suffer any kind of indigestion at the end.
 
 
-## Antipasto
+## Starter
 
 ![alt text](bruschetta.jpg)
 
@@ -46,7 +46,7 @@ I am here to guide, coach, clarify, simplify and reduce the noise around you.
 I want to plan together with you your career path. And if you don't have the answer to questions like 'where do you see yourself in 1 or 5 years?'. 
 I'll help you find them.
 
-We, as engineers, have a duty to ourselves to build up our skills, to evolve and to bring this know-how within the team and the product. I want to work with you and find the learning path that fits for you. It is part of my job to review how your learning path is going, and give you the oppportunities to grow professionally.
+We, as engineers, have a duty to ourselves to build up our skills, to evolve and to bring this know-how within the team and the product. I want to work with you and find the learning path that fits for you. It is part of my job to review how your learning path is going, and give you the opportunities to grow professionally.
 
 ### What NOT to expect from me:
 Blaming and finger pointing when you make a mistake.
