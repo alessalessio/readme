@@ -1,4 +1,4 @@
-![](https://img.shields.io/badge/version-v1.1.7-green)
+![](https://img.shields.io/badge/version-v1.2.0-green)
 
 # Working with AlessAlessio
 
@@ -95,7 +95,6 @@ Support your teammates since day one. Understand new hires challenges, no matter
 * <em>automation</em> <br />
 If there's something that you're repeating manually over the course of time, just stop and ask you? Can I automate this? <br />
 Time 'lost' in setting up repeatable processes is going to pay back over the course of time, always <br />
-
 The answer to questions like: <em>When is the right time to setup a Build&Release pipeline</em> or <em> What about automated tests?</em> is: right after you create the code repo. You should be able to deploy and test code from the very first line you commit.
 
 * <em>don’t reinvent the wheel</em> <br />
@@ -111,6 +110,10 @@ Use meaningful names: someone who doesn't have a clue of what your class does, s
 When you estimate your work, be sure to include the time you need to document what you've done. It's always better to explain what you did and how you did it, right after you finished, when it's still fresh in your mind. <br />
 Be mindful of who is going to read the documentation. And if you need to write different documents for the various stakeholders, take your time and do it <br />
 
+
+# Questions
+Feedback is fundamental, so let's start from this <em>readme</em>
+Did I miss something? Do you disagree with any of those points? <br />
 
 
 
