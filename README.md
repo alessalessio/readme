@@ -1,4 +1,4 @@
-![](https://img.shields.io/badge/version-v1.1.4-green)
+![](https://img.shields.io/badge/version-v1.1.5-green)
 
 # Working with AlessAlessio
 
@@ -64,7 +64,7 @@ My aim is to drive each single one of you to be a distinguishable layer whose va
 I come from a technical background. And, as an engineer, I always found very useful to work with managers with a similar background. 
 
 ### What to expect from me:
-So, you will see me partecipating in conversations around code, pipelines, resiliency patterns and dependency injection, as much as DDD, BDD, TDD and Glory of REST. I love my job and I'm passionate about it, and I will do my best to convey all of this to you on a daily basis.
+You will see me partecipating in conversations around code, pipelines, resiliency patterns and dependency injection, as much as DDD, BDD, TDD and Glory of REST. I love my job and I'm passionate about it, and I will do my best to convey all of this to you on a daily basis.
 
 ### What NOT to expect from me:
 To bring a list of things to do, and then step away and watch from the outside. As I've said, I am part of the team, and as long as I can bring value and help, I won't be afraid of diving deeper into techical matters, or suggesting alternative approaches. 
