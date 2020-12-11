@@ -1,4 +1,4 @@
-![](https://img.shields.io/badge/version-v1.2.0-green)
+![](https://img.shields.io/badge/version-v1.2.1-green)
 
 # Working with AlessAlessio
 
@@ -111,9 +111,6 @@ When you estimate your work, be sure to include the time you need to document wh
 Be mindful of who is going to read the documentation. And if you need to write different documents for the various stakeholders, take your time and do it <br />
 
 
-# Questions
-Feedback is fundamental, so let's start from this <em>readme</em>
-Did I miss something? Do you disagree with any of those points? <br />
 
 
 
